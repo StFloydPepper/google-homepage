@@ -1,0 +1,1 @@
+Intro - This is my first project in which I will rebuild the google homepage. The project will test my knowledge of html, css, dev tools, and git.
